@@ -1,0 +1,4 @@
+brotli
+flask
+flask-compress
+sentry-sdk
